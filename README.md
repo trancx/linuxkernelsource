@@ -1,2 +1,2 @@
 # linuxkernelsource
-some vital verision of kernel source code
+some vital version of kernel source code
